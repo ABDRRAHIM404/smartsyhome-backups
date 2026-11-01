@@ -1,0 +1,17 @@
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.gpg
+*.zip
+*.sqlite*
+*.db
+*.log
+__pycache__/
+node_modules/
+artifacts/
+client_secret*.json
+credentials*.json
+token*.json
+rclone.conf

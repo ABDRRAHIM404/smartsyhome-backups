@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /smartsyhome-backups/
+Sitemap: https://abdrrahim404.github.io/smartsyhome-backups/sitemap.xml
